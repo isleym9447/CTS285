@@ -4,8 +4,13 @@ ALGOCRATIC CORPORATION
 
 TEAM GO
 
-Mattea isleym9447
-Joey
+Mattea: isleym9447
+
+Joey: ackermanj5301
+
 Cornelius
-Luis
-Paul
+
+Luis: luisdrg
+
+Paul: PaulGayle
+
