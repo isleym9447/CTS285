@@ -2,7 +2,7 @@
 ALGOCRATIC CORPORATION
 
 
-TEAM GO
+TEAM G0!
 
 Mattea: isleym9447
 
