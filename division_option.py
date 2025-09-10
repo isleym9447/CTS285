@@ -14,4 +14,4 @@ guess = float(input(f"What is {num1} divided by {num2}? "))
 if guess == correct_answer:
     print("✅ Correct!")
 else:
-    print(f"❌ Incorrect. The correct answer is {correct_answer}.")
+    print(f"❌ Incorrect. The correct answer is {correct_answer}.") #can also not show correct answer
