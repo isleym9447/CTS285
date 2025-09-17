@@ -17,8 +17,8 @@ Paul: PaulGayle
 
 
 
-SYSTEM LOG: INITIATED
-
+## SYSTEM LOG: INITIATED ##
+---------------------------
 File ID: README.md
 User: [REDACTED]
 Access Level: Red-tier Clearance
