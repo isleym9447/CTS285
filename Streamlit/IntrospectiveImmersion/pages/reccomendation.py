@@ -10,7 +10,7 @@ import random # Needed to pick random items
 # SECURITY CHECK
 # ─────────────────────────────────────────────────────────────────────────
 if not st.session_state.get('logged_in', False):
-    st.error("🔒 Access Denied. Please use the Home page to log in.")
+    st.error("Access Denied. Please use the Home page to log in.")
     st.stop()
 
 
@@ -115,7 +115,7 @@ TROPE_RECOMMENDATIONS = {
 def show_recommendation_page():
     """Display recommendations based on the user's primary trope."""
     current_user = st.session_state.current_user
-    st.title("🎯 Recommendation Engine")
+    st.title("Recommendation Engine")
     st.subheader(f"Recommendations for {current_user}")
     st.write("---")
 
